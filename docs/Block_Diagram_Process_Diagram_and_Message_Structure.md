@@ -3,7 +3,7 @@ Title: Team Assignment #2
 ------
 Block Diagram
   
-  ![Team Block Diagram](Block_Diagram.png)
+  ![Team Block Diagram](Team_Block.drawio.png)
 
 ------
 Sequence Diagram
