@@ -1,4 +1,4 @@
-Title: Team Assignment #2
+Title: Team Block Diagram, Protocol, and Software Design
 
 ------
 Block Diagram
