@@ -8,11 +8,11 @@ Block Diagram
 ------
 Sequence Diagram
 
-   ![Team Block Diagram](Message_Types.png)
+  ![Team Block Diagram](Sequence_diagram.png)
 
 ------
 Message Structure
 
-  
+   ![Team Block Diagram](Message_Types.png)
 
 ------
