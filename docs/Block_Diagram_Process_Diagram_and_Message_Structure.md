@@ -16,3 +16,4 @@ Message Structure
    ![Team Block Diagram](Message_Types.png)
 
 ------
+
