@@ -13,7 +13,7 @@ Sequence Diagram
 ------
 Message Structure
 
-   ![Team Block Diagram](Message_Types.png)
+   ![Team Block Diagram]()
 
 ------
 
