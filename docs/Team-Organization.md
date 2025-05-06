@@ -21,7 +21,6 @@ Our mission is to inspire the next generation of innovators by providing K–12 
 
 | Name | First Communication Choice | Second Communication Choice | Third Communcation Choice |
 | ---- | -------------------------- | --------------------------- | ------------------------- |
-|James Austin | Discord | Email | Text |
 | Sophie Bryant | Discord | Text | Email |
 
 
@@ -36,3 +35,16 @@ Mondays/Wednesdays from 4:15-6:00PM
 Fridays anytime.
 The team will meet as needed over web-conference to handle some tasks such as preparations for the design review and final project submission details.
 
+## Meeting Coordination
+
+We will use Discord to communicate through, if anything needs to be changed we will have that discussion as team and work through it. However, the perferred method is meeting face to face, that way everyone is on the same page
+
+## Roles and Responsibilities 
+| Name | Role |
+| ---- | ---- |
+| Sophie Bryant | All positions |
+
+
+## Team Coordination and Accountability 
+
+Team 307 wants to be able to reach their target by the end of semester. We will communicate with each other and revise anything that was not addressed. 
